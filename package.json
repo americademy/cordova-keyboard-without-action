@@ -1,0 +1,31 @@
+{
+  "name": "cordova-keyboard-without-action",
+  "version": "0.0.1",
+  "description": "Cordova triggers keyboard and input focus without requiring a user action",
+  "cordova": {
+    "id": "cordova-keyboard-without-action",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/americademy/cordova-keyboard-without-action.git"
+  },
+  "keywords": [
+    "cordova",
+    "keyboard",
+    "focus",
+    "user",
+    "action",
+    "trigger",
+    "WKWebKit",
+    "cordova-ios"
+  ],
+  "author": "Americademy, Inc",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/americademy/cordova-keyboard-without-action/issues"
+  },
+  "homepage": "https://github.com/americademy/cordova-keyboard-without-action#readme"
+}
