@@ -9,7 +9,7 @@ This plugin allows an input focus to trigger the soft-keyboard without a user ac
 # Installation
 
 To install:
-`cordova plugin add cordova-hide-keyboard-shortcuts`
+`cordova plugin add cordova-keyboard-without-action`
 
 # License
 
