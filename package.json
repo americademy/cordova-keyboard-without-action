@@ -1,6 +1,6 @@
 {
   "name": "cordova-keyboard-without-action",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Cordova triggers keyboard and input focus without requiring a user action",
   "cordova": {
     "id": "cordova-keyboard-without-action",
