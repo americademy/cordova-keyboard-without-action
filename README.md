@@ -4,12 +4,12 @@ This plugin allows an input focus to trigger the soft-keyboard without a user ac
 
 [WKWebKit no longer supports the KeyboardDisplayRequiresUserAction property](https://issues.apache.org/jira/browse/CB-10376).
 
-> Note: This is only necessary until this [cordova-plugin-wkwebview-engine patch](ephemer/cordova-plugin-wkwebview-engine/pull/1) is available.
+> Note: This is only necessary until this [cordova-plugin-wkwebview-engine patch](https://github.com/ephemer/cordova-plugin-wkwebview-engine/pull/1) is available.
 
 # Installation
 
 To install:
-`cordova plugin add cordova-hide-keyboard-shortcuts`
+`cordova plugin add cordova-keyboard-without-action`
 
 # License
 
